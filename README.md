@@ -1,0 +1,2 @@
+# HalCoiNMiner
+Miner for HalCoiN
