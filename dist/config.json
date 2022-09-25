@@ -1,0 +1,6 @@
+{
+    "private_key":"Your private key from https://halwarsing.net/settings",
+    "max_nonce":100000,
+    "max_mine_nonce":100,
+    "sleep_time":600
+}
